@@ -3,6 +3,7 @@
 - Cursando ads 1º semestre
  #
   <div>
+   <a href='https://github.com/GuilhermeAugustodeSouza/guilhermeAugusto'>
     <img src='https://github-readme-stats.vercel.app/api?username=GuilhermeAugustodeSouza&show_icons=true&theme=dark&include_all_commits=true&counts_private=true'</>
   </div>
  
