@@ -1,6 +1,6 @@
 # Olá! Sou o Guilherme Augusto. 
 - Estou estudando front-end
-- Cursando ads 1º semestre
+- Cursando ads 2º semestre
  #
   <div>
    <a href='https://github.com/GuilhermeAugustodeSouza/guilhermeAugusto'>
